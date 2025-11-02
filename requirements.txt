@@ -1,5 +1,0 @@
-keras
-streamlit
-numpy
-pillow
-python-opencv
