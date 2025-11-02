@@ -1,0 +1,7 @@
+keras
+streamlit
+os
+numpy
+PIL
+pillow
+cv2
