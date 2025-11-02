@@ -1,3 +1,4 @@
 keras
 tensorflow
-python-opencv
+opencv-python
+opencv-contrib-python
